@@ -2,7 +2,7 @@
 import telebot
 import pandas as pd
 
-TOKEN = '6169338679:AAGOyjud6ZV3VU-2_tRmhyNC2wabez_OUVU'
+TOKEN = '6169338679:AAGOyjud6ZV3VU-2_tRmhyNC2wabez_OUVU' #@Stud212126_bot
 bot = telebot.TeleBot(TOKEN)
 
 list =[]
